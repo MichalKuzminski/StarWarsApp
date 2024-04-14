@@ -1,0 +1,2 @@
+# StarWarsApp
+next js project
